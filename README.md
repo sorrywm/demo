@@ -13,3 +13,5 @@ The guide above shows how to contribute to a repo using the github website. You 
 [Karl Broman](http://kbroman.org/), the creator of several widely used packages for QTL analysis, has made a supposedly minimal tutorial, his [git/github guide](http://kbroman.org/github_tutorial/), that shows how to do a variety of tasks in github.
 
 For later stages in the game, his page on [Putting your R package on github](http://kbroman.org/pkg_primer/pages/github.html) may also be helpful.
+
+Appropos of nothing, I just found that github supports [large file storage](https://git-lfs.github.com/?utm_source=github_site&utm_medium=blog&utm_campaign=gitlfs). If you want to add large data files to your repo, you should probably install this first.
