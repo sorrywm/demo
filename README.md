@@ -21,6 +21,9 @@ There are also some recommended best practices for collaborating on github; thes
 * [Using GitHub as a team.](https://medium.com/@dandevri/using-github-as-a-team-61f189eaa8ff) by Danny de Vries
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) by Chris Beams
 
+## Teach yourself to use Github with the Software Carpentry walk-through
+[Software Carpentry](https://software-carpentry.org/) is an organization that provides training on a variety of topics in computing for scientists with limited prior experience. They have a session on [Version Control with Git](https://swcarpentry.github.io/git-novice/) that you can go through yourself. Their in-person trainings are also great, if you have an opportunity to attend one.
+
 ## Github manuals and resources from the creator of a widely used R software for genetics
 [Karl Broman](http://kbroman.org/), the creator of several widely used packages for QTL analysis, has made a supposedly minimal tutorial, his [git/github guide](http://kbroman.org/github_tutorial/), that shows how to do a variety of tasks in github.
 
